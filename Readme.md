@@ -1,0 +1,1 @@
+guia de funciones matemáticas
